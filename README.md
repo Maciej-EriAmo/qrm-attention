@@ -145,8 +145,7 @@ on any serious GPU.
 
 ## Origin
 
-Built as part of EriAmo - a cognitive AI developed over several years
-by a railway operator in Warsaw. The operator was designed for episodic
+Built as part of EriAmo - a cognitive AI, designed for episodic
 memory trajectory tracking in FEHM (Fractal Event Horizon Memory).
 
 The discovery that the same cosine phase kernel improves language
